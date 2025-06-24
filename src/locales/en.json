@@ -1,0 +1,7 @@
+{
+  "table.header.id": "ID",
+  "table.header.nombre": "Name",
+  "table.header.modelo": "Model",
+  "table.header.fabricante": "Manufacturer",
+  "table.header.accion": "Action"
+}
